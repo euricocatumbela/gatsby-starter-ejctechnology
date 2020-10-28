@@ -7,9 +7,9 @@ function IndexPage() {
   return (
     <Layout>
       <SEO title="Home" />
-      <img src="/images/logos/logo.svg" alt="logo" />
+      
       <h1>Hi people</h1>
-      <p>Welcome to your new Gatsby site.</p>
+      <p>Welcome to your new ejctechnology site.</p>
       <Link to="/page-2/">Go to page 2</Link> <br />
     </Layout>
   )
